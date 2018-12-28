@@ -47,4 +47,11 @@ Para el registro me base en la info que pide Engie en su sitio web, tomando en c
 
 
 ## Version Mobile
-[Mobile](https://marvelapp.com/4bj4jgj/screen/51956659)
+
+En la versión mobile se utilizan las mejoras aplicadas a desktop de una forma más sintetizada, la idea es que la información sea ordenada, que la pantalla no esté sobrecargada de información, sea accesible y que el usuario no tenga la necesidad de esforzarse para ver imágenes más grandes o información que sale del marco visual o que es  obstruida por algún elemento.
+
+Son pocas las diferencias en cuanto a contenido en ambas versiones, si hay muchas cosas más que se podrían aplicar con el tiempo de indagar para saber si serían un plus para los usuarios de la página en sí.
+
+![Persona que ve su movil](https://user-images.githubusercontent.com/39282697/50524361-05d8dc00-0ab4-11e9-8238-57bd37fb3615.png)
+
+[Prototipo Navegable](https://marvelapp.com/4bj4jgj/screen/51956659)
