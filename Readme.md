@@ -6,6 +6,7 @@ Esta decición pasó por priorizar la calidad del entregable, dado que si bien t
 Espero que mi propuesta les haga sentido, tengo mucho aún que aprender y eso me lo dará solo la práctica. Yo por mi parte aporto con las ganas y el entusiasmo.
 
 ## Version Web
+[Prototipo Navegable](https://marvelapp.com/g1h5hfj/screen/51953886)
 
 Al generar una propuesta UI para el landing el desafio más grande era mostrar la información de una manera ordenada y que las secciones entre sí no se quitaran protagonismo, además de definir de que forma se podrían lucir mejor los contenidos.
 Para los usuarios es muy importante saber donde estan al momento de navegar, por ende es muy necesario que el logotipo y los colores utilizados les recuerden en todo momento la marca que está detras de esta página.
@@ -45,10 +46,11 @@ cabe mencionar que el usuario no sale de la página donde está navegando, una v
 Para el registro me base en la info que pide **Engie** en su sitio web, tomando en cuenta que no es un e-commerce como otros, sino uno destinado a los usuarios de **Engie**.
 
 
-[Prototipo Navegable](https://marvelapp.com/g1h5hfj/screen/51953886)
+
 
 
 ## Version Mobile
+[Prototipo Navegable](https://marvelapp.com/4bj4jgj/screen/51956659)
 
 En la versión mobile se utilizan las mejoras aplicadas a desktop de una forma más sintetizada, la idea es que la información sea ordenada, que la pantalla no esté sobrecargada de información, sea accesible y que el usuario no tenga la necesidad de esforzarse para ver imágenes más grandes o información que sale del marco visual o que es  obstruida por algún elemento.
 
@@ -58,4 +60,4 @@ Son pocas las diferencias en cuanto a contenido en ambas versiones, si hay mucha
 
 ![Persona que ve su movil](https://user-images.githubusercontent.com/39282697/50524361-05d8dc00-0ab4-11e9-8238-57bd37fb3615.png)
 
-[Prototipo Navegable](https://marvelapp.com/4bj4jgj/screen/51956659)
+
