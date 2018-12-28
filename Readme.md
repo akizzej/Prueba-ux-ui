@@ -24,6 +24,24 @@ En la información del Blog mayormente encasillé los supuestos articulos en mar
 
 Por último al footer se le agregaron los iconos de RRSS que no se visualizaban, aunque se podría poner mucha más información o llamados de acción, mantuve la info existente.
 
+### Página de detalle de productos
+
+Como mencioné anteriormente el usuario necesita saber en todo momento donde está ubicado dentro de la arquitectura del sitio web, por ende al ingresar a la página de productos se mantiene el Header y se agregan Breadcrumbs para que sepa en que categoría está actualmente, por si quiere buscar algún otro producto.
+
+Se utiliza mejor el espacio de la página colocando la info del producto al lado en vez de a continuación, y se agregan vistas más llamativas del producto.
+
+A continuación un carrusel con productos relacionados, carrusel que el usuario debe poder controlar.
+
+Por último se mantiene el mismo footer.
+
+### Inicio de Sesión/ Registro
+
+Basándome en varias páginas e-commerce opté por sacar el modal de inicio de sesión y cambiarlo por un link a una sección que permita de una sola vez iniciar sesion o registrarse si lo necesita.
+
+cabe mencionar que el usuario no sale de la página donde está navegando, una vez iniciada la sesión o realizado el registro queda en la misma sección que estaba visitando.
+
+Para el registro me base en la info que pide Engie en su sitio web, tomando en cuenta que no es un e-commerce como otros, sino uno destinado a los usuarios de Engie.
+
 
 [Prototipo Navegable](https://marvelapp.com/g1h5hfj/screen/51953886)
 
