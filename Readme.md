@@ -60,4 +60,8 @@ Son pocas las diferencias en cuanto a contenido en ambas versiones, si hay mucha
 
 ![Persona que ve su movil](https://user-images.githubusercontent.com/39282697/50524361-05d8dc00-0ab4-11e9-8238-57bd37fb3615.png)
 
+## Conclusión
+
+Son muchas las oportunidades de mejora para un producto digital, aún cuando pensemos que nuestro diseño es excelente nunca será el definitivo, porque las necesidades de nuestros clientes varian tan rápidamente como la tecnología, por eso es importante el diseño de experiencia de usuario, más allá de aportar un buen UI está la necesidad o el dolor de un cliente que necesita hacer un proceso más intuitivo, una tarea de una forma más rápida o quizas más metódica, pero eso sólo se logra cuando diseñamos centrándonos en él. De otro modo sólo tendremos páginas bonitas.
+
 
