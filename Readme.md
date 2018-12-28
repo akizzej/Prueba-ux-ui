@@ -1,6 +1,6 @@
 # Prueba Técnica TUTEN
 
-En este repositorio hago llegar mi propuesta de mejora para el sitio e-commerce de Engie en México.
+En este repositorio hago llegar mi propuesta de mejora para el sitio e-commerce de **Engie** en México.
 Si bien en las instrucciones se pedía modificar el archivo Html y sus estilos correspondientes, yo decidí maquetear la pagina y sus interacciones en Figma y Marvel.
 Esta decición pasó por priorizar la calidad del entregable, dado que si bien tengo nociones de programación, no soy desarrolladora.
 Espero que mi propuesta les haga sentido, tengo mucho aún que aprender y eso me lo dará solo la práctica. Yo por mi parte aporto con las ganas y el entusiasmo.
@@ -10,7 +10,9 @@ Espero que mi propuesta les haga sentido, tengo mucho aún que aprender y eso me
 Al generar una propuesta UI para el landing el desafio más grande era mostrar la información de una manera ordenada y que las secciones entre sí no se quitaran protagonismo, además de definir de que forma se podrían lucir mejor los contenidos.
 Para los usuarios es muy importante saber donde estan al momento de navegar, por ende es muy necesario que el logotipo y los colores utilizados les recuerden en todo momento la marca que está detras de esta página.
 
-![usuario visitndo web](https://user-images.githubusercontent.com/39282697/50523080-f609c980-0aac-11e9-9ec0-b17129d1806b.png)
+
+
+![usuario visitando web](https://user-images.githubusercontent.com/39282697/50523080-f609c980-0aac-11e9-9ec0-b17129d1806b.png)
 
 ### Landing Page
 
@@ -40,7 +42,7 @@ Basándome en varias páginas e-commerce opté por sacar el modal de inicio de s
 
 cabe mencionar que el usuario no sale de la página donde está navegando, una vez iniciada la sesión o realizado el registro queda en la misma sección que estaba visitando.
 
-Para el registro me base en la info que pide Engie en su sitio web, tomando en cuenta que no es un e-commerce como otros, sino uno destinado a los usuarios de Engie.
+Para el registro me base en la info que pide **Engie** en su sitio web, tomando en cuenta que no es un e-commerce como otros, sino uno destinado a los usuarios de **Engie**.
 
 
 [Prototipo Navegable](https://marvelapp.com/g1h5hfj/screen/51953886)
@@ -50,7 +52,9 @@ Para el registro me base en la info que pide Engie en su sitio web, tomando en c
 
 En la versión mobile se utilizan las mejoras aplicadas a desktop de una forma más sintetizada, la idea es que la información sea ordenada, que la pantalla no esté sobrecargada de información, sea accesible y que el usuario no tenga la necesidad de esforzarse para ver imágenes más grandes o información que sale del marco visual o que es  obstruida por algún elemento.
 
-Son pocas las diferencias en cuanto a contenido en ambas versiones, si hay muchas cosas más que se podrían aplicar con el tiempo de indagar para saber si serían un plus para los usuarios de la página en sí.
+Son pocas las diferencias en cuanto a contenido en ambas versiones, si hay muchas cosas más que se podrían aplicar con el tiempo de indagar para saber si serían un plus para los usuarios de la página en sí. 
+
+
 
 ![Persona que ve su movil](https://user-images.githubusercontent.com/39282697/50524361-05d8dc00-0ab4-11e9-8238-57bd37fb3615.png)
 
