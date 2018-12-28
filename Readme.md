@@ -10,9 +10,12 @@ Espero que mi propuesta les haga sentido, tengo mucho aún que aprender y eso me
 Al generar una propuesta UI para el landing el desafio más grande era mostrar la información de una manera ordenada y que las secciones entre sí no se quitaran protagonismo, además de definir de que forma se podrían lucir mejor los contenidos.
 Para los usuarios es muy importante saber donde estan al momento de navegar, por ende es muy necesario que el logotipo y los colores utilizados les recuerden en todo momento la marca que está detras de esta página.
 
-![Usuario visitando Web](mockuper (1).png)
+![usuario visitndo web](https://user-images.githubusercontent.com/39282697/50523080-f609c980-0aac-11e9-9ec0-b17129d1806b.png)
 
-Respecto al Diseño del Header
+
+Respecto al Diseño del Header deje que las categorias que aarecian dentro del buscador estuvieran accesibles desde un menú de navegación, así en el buscador pueden buscar cosas en especifico.
+
+
 [Desktop](https://marvelapp.com/g1h5hfj/screen/51953886)
 ## Version Mobile
 [Mobile](https://marvelapp.com/4bj4jgj/screen/51956659)
